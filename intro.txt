@@ -20,6 +20,10 @@ NOME(Apelido): Luiza Irina
 Linkedin:https: https://www.linkedin.com/in/luiza-irina-santos-eng/ 
 Seus Hobbies: assistir filmes, ouvir música
 
+NOME(Apelido): Maria 
+Linkedin: linkedin.com/in/maria-paula-nascimento-7a5328147
+Seus Hobbies: Dança do ventre, yoga, filmes e séries, livros, jogos e RPG. 
+
 NOME(Apelido): Beatriz Cristina (Bia)
 Linkedin: https://www.linkedin.com/in/cristinnabea/
 Seus Hobbies: Desenhar, costurar e fazer caminhada :)
@@ -87,4 +91,3 @@ Seus Hobbies: Codar - Música - Design
 NOME(Apelido): Carol    
 Linkedin: https://www.linkedin.com/in/bastoscarolinaa/
 Seus Hobbies: Eu adoro ler, cozinhar e fazer artesanato 
-
