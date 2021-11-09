@@ -10,6 +10,10 @@ NOME(Apelido): Beatriz Cristina (Bia)
 Linkedin: https://www.linkedin.com/in/cristinnabea/
 Seus Hobbies: Desenhar, costurar e fazer caminhada :)
 
+NOME(Apelido): STE SUZART
+Linkedin: https://www.linkedin.com/in/stesuzart
+Seus Hobbies: amo comer, cozinhar, fazer carinho nos meu gatinhos e assitir animes =)
+
 NOME(Apelido): Cassiana Soares (Cassy)
 Linkedin: https://www.linkedin.com/in/cassiana-s-4962a552/
 Seus Hobbies: correr, ler (muito manga), assistir filmes e jogar video game
@@ -41,3 +45,4 @@ Seus Hobbies: nadar, ler, estudar
 NOME(Apelido): Isabel Cristina (Bell)
 Linkedin: https://www.linkedin.com/in/isabel-cristina-1355031a3
 Seus Hobbies: Panificação, ler com/para minhas crianças e séries
+
