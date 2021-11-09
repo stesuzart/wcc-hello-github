@@ -18,6 +18,11 @@ NOME(Apelido): Cassiana Soares (Cassy)
 Linkedin: https://www.linkedin.com/in/cassiana-s-4962a552/
 Seus Hobbies: correr, ler (muito manga), assistir filmes e jogar video game
 
+
+NOME(Apelido): Malu
+Linkedin://www.linkedin.com/in/maria-luiza-siqueira-b207a0207/
+Seus Hobbies: Amo viajar, passear com meu cachorro, assistir filmes e cuidar das minhas plantinhas.
+
 NOME(Apelido): Patricia Sprovieri 
 Linkedin:https://www.linkedin.com/in/patyspro/ 
 Seus Hobbies: Ler , viajar e estar com a família!
@@ -52,8 +57,8 @@ NOME(Apelido): Dyovana
 Linkedin: https://www.linkedin.com/in/dyovana-czarneski-964a50217/
 Seus Hobbies: nadar, ler, estudar
 
-
 NOME(Apelido): Isabel Cristina (Bell)
 Linkedin: https://www.linkedin.com/in/isabel-cristina-1355031a3
 Seus Hobbies: Panificação, ler com/para minhas crianças e séries
+
 
