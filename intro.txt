@@ -10,6 +10,11 @@ NOME(Apelido): Mayara
 Linkedin: https://www.linkedin.com/in/mayara-veloso-lima-2111b81ab/
 Seus Hobbies: ler e assistir séries
 
+
 NOME(Apelido): Isabela
 Linkedin: https://www.linkedin.com/in/isabela-felix-a52760110/
 Seus Hobbies: Desenhar - Ler 
+
+NOME(Apelido): Isabel Cristina (Bell)
+Linkedin: https://www.linkedin.com/in/isabel-cristina-1355031a3
+Seus Hobbies: Panificação, ler com/para minhas crianças e séries
