@@ -8,6 +8,11 @@ Seus Hobbies: assistir filmes, ouvir música
 
 Por gentileza, preencha os campos abaixo =) :
 
+NOME(Apelido):     
+Linkedin:
+Seus Hobbies: 
+
+
 NOME(Apelido): Beatriz Cristina (Bia)
 Linkedin: https://www.linkedin.com/in/cristinnabea/
 Seus Hobbies: Desenhar, costurar e fazer caminhada :)
@@ -54,7 +59,6 @@ NOME(Sil): Silvana Caldeira Miranda Betoldo
 Linkedin:https://www.linkedin.com/in/silvana-betoldo-03977a94
 Seus Hobbies:Estudar e assistir filmes da Marvel
 
-
 NOME(Apelido): Dyovana
 Linkedin: https://www.linkedin.com/in/dyovana-czarneski-964a50217/
 Seus Hobbies: nadar, ler, estudar
@@ -63,10 +67,13 @@ NOME(Apelido): Isabel Cristina (Bell)
 Linkedin: https://www.linkedin.com/in/isabel-cristina-1355031a3
 Seus Hobbies: Panificação, ler com/para minhas crianças e séries
 
-
 Sobre mim:
 
 NOME(Apelido):  Endy
 Linkedin: https://www.linkedin.com/in/edith-penha/
 Seus Hobbies: Codar - Música - Design
 
+
+NOME(Apelido): Carol    
+Linkedin: https://www.linkedin.com/in/bastoscarolinaa/
+Seus Hobbies: Eu adoro ler, cozinhar e fazer artesanato 
