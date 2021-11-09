@@ -30,8 +30,9 @@ NOME(Apelido): Mayara
 Linkedin: https://www.linkedin.com/in/mayara-veloso-lima-2111b81ab/
 Seus Hobbies: ler e assistir séries
 
-
-
+NOME(Apelido): Fabiana(Fabi)
+Linkedin: https://www.linkedin.com/in/farias-fabianam
+Seus Hobbies: ouvir música, assistir séries e canais do Youtube
 
 NOME(Apelido): Isabela
 Linkedin: https://www.linkedin.com/in/isabela-felix-a52760110/
