@@ -7,3 +7,7 @@ NOME(Apelido):
 Linkedin:
 Seus Hobbies:
 
+NOME(Apelido): Mayara
+Linkedin:https://www.linkedin.com/in/mayara-veloso-lima-2111b81ab/
+Seus Hobbies: ler e assistir séries
+
