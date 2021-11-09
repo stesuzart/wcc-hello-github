@@ -8,4 +8,4 @@ Esse projeto é para treinarmos na prática sobre:
 * Commits
 * Criação de  Prs / Mrs
 
-Estão animadas? Eu super estou :D
+Estão animadas? Eu super estou  😁❤
