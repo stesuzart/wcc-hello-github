@@ -78,6 +78,10 @@ NOME(Apelido): Isabel Cristina (Bell)
 Linkedin: https://www.linkedin.com/in/isabel-cristina-1355031a3
 Seus Hobbies: Panificação, ler com/para minhas crianças e séries
 
+NOME(Apelido): Angelica Carvalho
+Linkedin: linkedin.com/in/angelica-de-souza-carvalho-2a8508174
+Seus Hobbies: jogar basquete e ler
+
 NOME(Apelido):  Endy
 Linkedin: https://www.linkedin.com/in/edith-penha/
 Seus Hobbies: Codar - Música - Design
@@ -85,3 +89,4 @@ Seus Hobbies: Codar - Música - Design
 NOME(Apelido): Carol    
 Linkedin: https://www.linkedin.com/in/bastoscarolinaa/
 Seus Hobbies: Eu adoro ler, cozinhar e fazer artesanato 
+
