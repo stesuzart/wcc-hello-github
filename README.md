@@ -1,8 +1,9 @@
-# wcc-hello-github
+﻿# wcc-hello-github
 
-## Sejam muito bem vindas!
-Esse projeto é para treinarmos na prática sobre:
+## Olá meninas estou gostando muito!
 
+Estou muito animada.
+=======
 * Criação de branchs
 * Comentários
 * Commits
