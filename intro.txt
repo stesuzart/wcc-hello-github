@@ -2,14 +2,9 @@
 
 Por gentileza, preencha os campos abaixo =) :
 
-
 NOME(Apelido): Viviane 
 Linkedin: https://www.linkedin.com/in/vivi-fds-3a7b6821b/
 Seus Hobbies: gosto de viajar e jogar futebol
-
-NOME(Apelido):     
-Linkedin:
-Seus Hobbies: 
 
 NOME(Apelido): Etiene Cristina 
 Linkedin: https://www.linkedin.com/in/etiene-cristina/
@@ -54,7 +49,6 @@ Seus Hobbies: compor, cantar e assistir séries.
 NOME(Apelido): Mayara
 Linkedin: https://www.linkedin.com/in/mayara-veloso-lima-2111b81ab/
 Seus Hobbies: ler e assistir séries
-
 
 NOME(Apelido): Ana Carol
 Linkedin: https://www.linkedin.com/in/anacarolinacoimbra/
@@ -104,3 +98,6 @@ NOME(Apelido): Pathy
 Linkedin:https://www.linkedin.com/in/patriciasilvadev/
 Seus Hobbies: Ler, cozinhar, ver anime e dormir
 
+Nome: Thayane Bitencourt	
+Linkedin: https:www.linkedin.com/in/thayanebitencourt
+Seus hobbies:cantar, programar, viajar.
