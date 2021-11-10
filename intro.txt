@@ -96,3 +96,11 @@ NOME(Apelido): Carol
 Linkedin: https://www.linkedin.com/in/bastoscarolinaa/
 Seus Hobbies: Eu adoro ler, cozinhar e fazer artesanato 
 
+NOME(Apelido): Babi
+Linkedin: https://www.linkedin.com/in/barbara-cirilo/
+Seus Hobbies: ficar no sol com os gatinhos
+
+NOME(Apelido): Pathy
+Linkedin:https://www.linkedin.com/in/patriciasilvadev/
+Seus Hobbies: Ler, cozinhar, ver anime e dormir
+
